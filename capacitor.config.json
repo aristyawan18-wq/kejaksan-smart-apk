@@ -1,0 +1,8 @@
+{
+  "appId": "id.go.kejaksan.smart",
+  "appName": "Kejaksan Smart",
+  "webDir": ".",
+  "server": { "androidScheme": "https" },
+  "plugins": { "Geolocation": { "backgroundPermission": true } },
+  "android": { "backgroundColor": "#0B57D0" }
+}
